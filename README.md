@@ -55,8 +55,8 @@ Para desplegar y ejecutar este proyecto en tu entorno local, sigue detalladament
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <URL_DE_TU_REPOSITORIO>
-    cd <NOMBRE_DE_LA_CARPETA_DEL_PROYECTO>
+    git clone <https://github.com/AlfredoAD20/Subtemas.git>
+    cd <Subtemas>
     ```
 
 2.  **Instalar dependencias de PHP:**
@@ -68,10 +68,6 @@ Para desplegar y ejecutar este proyecto en tu entorno local, sigue detalladament
     Copia el archivo de ejemplo para generar tu entorno local:
     ```bash
     cp .env.example .env
-    ```
-    *Nota importante:* Recuerda incluir tu archivo `.env` en el `.gitignore` para mantener seguras tus credenciales locales ejecutando:
-    ```bash
-    echo ".env" >> .gitignore
     ```
 
 4.  **Configurar la Base de Datos en XAMPP:**
@@ -106,5 +102,3 @@ Para desplegar y ejecutar este proyecto en tu entorno local, sigue detalladament
     Una vez iniciado, abre tu navegador e ingresa a: `http://127.0.0.1:8000`
 
 ---
-
-
