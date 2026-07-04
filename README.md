@@ -107,10 +107,4 @@ Para desplegar y ejecutar este proyecto en tu entorno local, sigue detalladament
 
 ---
 
-## 🎨 Capturas de la Interfaz
-
-### Página de Inicio
-
-
-### Panel de Control / Lista de Subtemas
 
